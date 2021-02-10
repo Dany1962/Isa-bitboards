@@ -4,10 +4,10 @@ Chess engine with bitboards move generator
 Move generator with bitboards (classical approach , no magics)
 
 Search : 
-plain alpha beta with transposition table and quiescence search
+plain alpha beta with transposition table and quiescence search ,
 history table 
 
-Evaluation function
+Evaluation function :
 Matérial
 Psqt 
 Mobility 
